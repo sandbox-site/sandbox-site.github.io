@@ -1,5 +1,3 @@
-# <p align="center">Sandbox</p>
-
 <p align="center"><strong>Coming Soon</strong></p>
 
 <style>
